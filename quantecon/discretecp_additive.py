@@ -1,10 +1,10 @@
 """
-Filename: discretecp.py
+Filename: discretecp_additive.py
 
 Authors: Diego Zuniga and Alex Carrasco
 
 Solving the stochastic cake problem via value function iteration.
-Discrete Choice Case.
+Discrete Choice Case. Alternative utility function.
 
 Based on:
 'Quantitative Economics with Python'* by John Starchuski and Thomas Sargent
